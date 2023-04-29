@@ -1,2 +1,2 @@
 # odin-recipes
-recipe html project
+project aiming to practise html creation
